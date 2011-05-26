@@ -1,0 +1,39 @@
+Pages:
+  Calendar - Google - Kassandra
+  About - text? - Garann
+  Logo - cupcake? - Annette
+  News - hashtag of group - not assigned
+  Jobs *big thing* - ruby on rails - Elze, Nola, Ann
+  Links to groups - Static page of links - not assigned
+  Blog - wordpress - not assigned
+  Website design - Patty
+  JS widget to replace " masculine" language in job ads w/ "neutral" language
+  Domain
+  Web Hosting
+  
+Sign ups
+  Annette - Design, 
+  Nola - Background (rails)
+  Kassandra - Background (rails)
+  Anne - Background or Javascript
+  Garann - Javascript
+  Patty - Javascript, Design
+
+Jobs model
+  Title
+  Description
+  Link to company page
+  Link to job post
+  Languages
+  Contact name
+  Contact info
+  Short description (100 characters)
+  Approved
+  
+Technologies Used
+  Rails 3.1 rc
+  MySQL 5
+  JQuery 1.6
+  Coffeescript
+  SASS
+  erb
